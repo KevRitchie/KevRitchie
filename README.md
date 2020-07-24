@@ -1,6 +1,6 @@
 ### Hi there, my name's Kev or Kevin if I'm trouble! 😂
 
-I’m a software developer with over 20 years’ experience and work primarily in C#. A long way from changing screen colours and making music on my C64 back in the early 80s.
+I’m a software developer working primarily in C# and buidling things in the ☁. A long way from changing screen colours and making music on my C64 back in the early 80s.
 
 🌱 I’m currently learning all about Azure, but happy to help anyone in the community on their software development journey.
 
