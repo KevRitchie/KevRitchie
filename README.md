@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/KevRitchie/KevRitchie/blob/master/Twitter%20banner.jpg)](https://github.com/KevRitchie/)
 
-### Hi there, my name's Kev!
+### Hi there, my name's Kev! :wave:
 
 I’m a Development Director and software developer working primarily in C# and building things in the ☁. A long way from changing screen colours and making music on my C64 back in the early 80s.
 
